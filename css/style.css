@@ -1,4 +1,8 @@
 
+.containner{
+    text-align: center;
+}
+
 h1{
    color: rgb(113, 164, 113);
     text-align: center;
@@ -10,4 +14,28 @@ h2{
     font-size: 2.5em;
 }
 
+h3{
+    padding: 50px;
+    font-size: 2em;
+    text-align: center;
+}
 
+h4{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: rgb(113, 164, 113);
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+img{
+background-color: rgba(113, 164, 113, 0.442);
+border-radius: 5px;
+}
